@@ -1,0 +1,30 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# VSCode specific files
+.vscode/
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+
+# Visual Studio Code files
+.vscode/
+
+# Rider specific
+.idea/
+
+# Project files
+*.csproj
+*.sln
+
+# Package files
+/packages/
